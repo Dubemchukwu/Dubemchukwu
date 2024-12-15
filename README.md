@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Dubemchukwu
+- 👉 Full name: Onyilimba Dubemchukwu Fidelis
 - 👀 I’m interested in Embedded Systems, AI and ML and Robotics
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on a robotics project or job
